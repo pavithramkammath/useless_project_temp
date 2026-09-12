@@ -2,40 +2,42 @@
 
 
 
-# [Project Name] 🎯
+# [Mathaka detector] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [HARRY POTTER]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Micheal Fernado - Toc H Institution of science and Technology
+- Member 2: Pavithra M Kammath - Toc H Institution of science and Technology
+
 
 ### Project Description
-[2-3 lines about what your project does]
+A computer vision system that detects and identifies the natural stripes on a watermelon using OpenCV and Python. The system can process a live feed from a laptop camera as well as an uploaded watermelon image and detects horizontal and vertical/longitudinal stripe patterns.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Nobody has ever been seriously worried about whether their watermelon has enough visible stripes. But manually counting or identifying watermelon stripes can be surprisingly confusing.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We created a completely unnecessary but technically interesting computer vision system that looks at a watermelon and detects its stripes automatically. Using OpenCV image processing techniques, the system identifies the watermelon, isolates its surface, processes the stripe patterns, and highlights detected horizontal and vertical/longitudinal stripes.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- OpenCV
+- NumPy
+- Tkinter
+- Visual Studio Code
+- Git and GitHub
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- Laptop/PC
+- Laptop webcam
+- Watermelon
+- 
 ### Implementation
 For Software:
 # Installation
