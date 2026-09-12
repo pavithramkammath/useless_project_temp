@@ -66,7 +66,7 @@ For Software:
 ![Watermelon Strips Detected](scs/1.png)
 *Add caption explaining what this shows*
 
-![Watermelon Strips Detected vertically](watermelon%20strips%20detected%20vertically%20.png)
+![Watermelon Strips Detected vertically](scs/2.png)
 *Add caption explaining what this shows*
 
 # Diagrams
