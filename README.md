@@ -59,7 +59,7 @@ Select one of the available options:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1] scs/photo uploaded detected.png
+![Detected watermelon](scs/photo%20uploaded%20detected.png)
 
 *Add caption explaining what this shows*
 
