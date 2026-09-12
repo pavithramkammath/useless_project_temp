@@ -2,7 +2,7 @@
 
 
 
-# [Bathaka detector] 🎯
+# [Mathaka detector] 🎯
 
 
 ## Basic Details
@@ -37,14 +37,23 @@ For Hardware:
 - Laptop/PC
 - Laptop webcam
 - Watermelon
-- 
+- No additional electronic hardware required
+- Internet connection for GitHub project management
 ### Implementation
 For Software:
 # Installation
-[commands]
+Install Python and the required libraries:
+pip install opencv-python numpy
+Tkinter is normally included with Python on Windows.
 
 # Run
-[commands]
+python watermelon_stripe_detection.py
+Select one of the available options:
+
+1. Laptop Camera
+2. Upload Image
+3. Exit
+ The camera option performs real-time watermelon stripe detection, while the upload option allows the user to select a watermelon image from the computer.
 
 ### Project Documentation
 For Software:
