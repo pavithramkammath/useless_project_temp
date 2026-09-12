@@ -63,7 +63,7 @@ For Software:
 
 *uploaded photo of watermelon which detected the strips count.*
 
-[Watermelon Strips Detected](scs/watermelon%20strips%20detected.png)
+![Watermelon Strips Detected](scs/watermelon1.png)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
