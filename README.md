@@ -2,7 +2,7 @@
 
 
 
-# [Mathaka detector] 🎯
+# [Bathaka detector] 🎯
 
 
 ## Basic Details
